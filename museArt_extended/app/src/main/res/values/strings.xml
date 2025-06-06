@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MuseArt</string>
+    <string name="home">Главная</string>
+    <string name="search">Поиск</string>
+    <string name="notifications">Уведомления</string>
+    <string name="profile">Профиль</string>
+    <string name="compose">Создать</string>
+    <string name="login">Войти</string>
+    <string name="signup">Зарегистрироваться</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="email">Email</string>
+    <string name="welcome_to_museart">Добро пожаловать в MuseArt</string>
+    <string name="post_hint">Что происходит?</string>
+    <string name="post">Опубликовать</string>
+    <string name="cancel">Отмена</string>
+    <string name="followers">Подписчики</string>
+    <string name="following">Подписки</string>
+    <string name="posts">Посты</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="follow">Подписаться</string>
+    <string name="unfollow">Отписаться</string>
+    <string name="likes">Лайки</string>
+    <string name="comments">Комментарии</string>
+    <string name="reposts">Репосты</string>
+</resources>
+

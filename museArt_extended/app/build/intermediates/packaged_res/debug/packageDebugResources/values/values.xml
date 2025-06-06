@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue_dark">#FF0078C1</color>
+    <color name="blue_light">#FF60C5FF</color>
+    <color name="blue_primary">#FF1DA1F2</color>
+    <color name="gray_100">#FFF3F4F6</color>
+    <color name="gray_200">#FFE5E7EB</color>
+    <color name="gray_300">#FFD1D5DB</color>
+    <color name="gray_400">#FF9CA3AF</color>
+    <color name="gray_50">#FFF9FAFB</color>
+    <color name="gray_500">#FF6B7280</color>
+    <color name="gray_600">#FF4B5563</color>
+    <color name="gray_700">#FF374151</color>
+    <color name="gray_800">#FF1F2937</color>
+    <color name="gray_900">#FF111827</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MuseArt</string>
+    <string name="cancel">Отмена</string>
+    <string name="comments">Комментарии</string>
+    <string name="compose">Создать</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="email">Email</string>
+    <string name="follow">Подписаться</string>
+    <string name="followers">Подписчики</string>
+    <string name="following">Подписки</string>
+    <string name="home">Главная</string>
+    <string name="likes">Лайки</string>
+    <string name="login">Войти</string>
+    <string name="notifications">Уведомления</string>
+    <string name="password">Пароль</string>
+    <string name="post">Опубликовать</string>
+    <string name="post_hint">Что происходит?</string>
+    <string name="posts">Посты</string>
+    <string name="profile">Профиль</string>
+    <string name="reposts">Репосты</string>
+    <string name="search">Поиск</string>
+    <string name="signup">Зарегистрироваться</string>
+    <string name="unfollow">Отписаться</string>
+    <string name="username">Имя пользователя</string>
+    <string name="welcome_to_museart">Добро пожаловать в MuseArt</string>
+    <style name="Theme.MuseArt" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+</resources>
